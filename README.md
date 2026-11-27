@@ -53,7 +53,8 @@
 <p>
   📣 ¿Querés contactarme? Encontrame acá:<br/>
   <a href="mailto:tomicarrio73@gmail.com?subject=[GitHub]%20Contacto"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tomi-carrio73"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tomi-carrio73/"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/tomi.carrio73/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/TomiiC73/Proyectos"><img src="https://img.shields.io/badge/portafolio-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -71,7 +72,7 @@
   🌱 Me apasionan la ciberseguridad y la IA.
 </p>
 <p>
-  🔗 ¿Querés hablar de algún proyecto? Mandame un <a href="mailto:tomicarrio73@gmail.com?subject=[GitHub]%20Contacto">mail</a> o escribime por <a href="https://linkedin.com/in/tomi-carrio73">LinkedIn</a>.
+  🔗 ¿Querés hablar de algún proyecto? Mandame un <a href="mailto:tomicarrio73@gmail.com?subject=[GitHub]%20Contacto">mail</a> o escribime por <a href="https://www.linkedin.com/in/tomi-carrio73/">LinkedIn</a>.
 </p><br/>
 
 <h3>🛠️ Conocimientos técnicos</h3>
@@ -90,19 +91,296 @@
 | **Redes** | Configuración básica de redes LAN/WAN y diagnóstico de conectividad |
 | **Metodologías y herramientas** | Agile, Scrum, Kanban, UML, BPMN, C4, ADR, Git, VS Code, IntelliJ |
 
-<details>
-  <summary>📂 Algunos proyectos ...</summary><br/>
+<h2 align="center">🚀 Proyectos</h2>
 
-| Proyecto | De qué trata | Tecnologías |
-|---|---|---|
-| [Detección y Comprensión de Objetos en Imágenes](https://github.com/TomiiC73/Proyectos/tree/main/IA%20-%20Modelo%20para%20detectar%20objetos%20en%20imagenes) | Detecta y segmenta objetos de una imagen y genera una descripción estructurada de la escena para responder preguntas en lenguaje natural. | Python, PyTorch, Transformers, SAM, OWLv2, YOLOE, Qwen3 |
-| doctaCar | Sistema de alquiler de vehículos con reservas, eventos asincrónicos y panel web. | FastAPI, React, RabbitMQ, WebSocket, Auth0, Grafana, Jaeger |
-| [Pentesting con FIDO2 (Hackertech)](https://github.com/TomiiC73/Proyectos/tree/main/HackerTech%20-%20UTNFRC) | Banco simulado con vulnerabilidades intencionales y segundo factor con passkeys. | Flask, OAuth2, JWT, WebAuthn/FIDO2, Docker |
-| [Automatización con n8n](https://github.com/TomiiC73/Proyectos/tree/main/Proyectos%20n8n) | Flujos para cierre de rampa en aeropuertos y un bot de trivia por Telegram, con LLMs locales. | n8n, Ollama, Docker, Azure, Telegram Bot API |
-| [Prompt Injection](https://github.com/TomiiC73/Proyectos/tree/main/Charla%20IA) | Laboratorio de un filtro de candidatos con IA, usado en una charla sobre prompt injection. | Node.js, Express, Groq |
-| [Pipeline CI/CD seguro](https://github.com/TomiiC73/Proyectos/tree/main/DevOps%20(Gitlab%20CI-CD)) | Pipeline de 8 etapas con escaneo de secretos, infraestructura e imágenes. | GitLab CI/CD, Docker, Trivy, Checkov, Nginx |
+<h3>🤖 Inteligencia Artificial</h3>
 
-</details>
+#### 👁️ Detección y Comprensión de Objetos en Imágenes
+
+<p>Sistema que <b>mira una imagen y la entiende</b>: detecta y segmenta cada objeto, describe la escena en un formato estructurado y responde preguntas sobre ella en lenguaje natural.</p>
+
+<ul>
+  <li>Combina <b>cuatro detectores open-vocabulary</b> (SAM 3, OWLv2, Grounding DINO y YOLOE) con segmentación <b>SAM 2.1</b>.</li>
+  <li>Calcula color, tamaño, posición y relaciones espaciales de cada objeto en un <b>SceneJSON</b> validado contra un esquema.</li>
+  <li>Responde preguntas con un motor determinista o con un <b>LLM local (Qwen3)</b>, con inferencia optimizada en GPU.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ultralytics-111F68?style=flat-square&logo=ultralytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAM-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWLv2-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qwen3-615CED?style=flat-square&logo=alibabacloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON%20Schema-000000?style=flat-square&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/IA%20-%20Modelo%20para%20detectar%20objetos%20en%20imagenes"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+#### 🦖 Agente de Aprendizaje por Refuerzo – Dinosaurio de Chrome
+
+<p>Un agente que <b>aprende solo a jugar</b> al juego del dinosaurio de Chrome, esquivando cactus y pájaros a partir de recompensas.</p>
+
+<ul>
+  <li>Modelado del entorno (estados, acciones y recompensas) con una interfaz estilo <b>Gymnasium</b>.</li>
+  <li>Entrenamiento con <b>Q-Learning</b> y exploración ε-greedy, comparando lo aprendido contra la tabla Q óptima.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+
+#### 🎤 Laboratorio de Prompt Injection
+
+<p>Simulador de un <b>filtro de candidatos (ATS) con IA</b> que evalúa CVs en PDF con un LLM. Lo usé en una charla para mostrar en vivo cómo instrucciones ocultas en un documento o un correo <b>manipulan la decisión del modelo</b>.</p>
+
+<ul>
+  <li>Análisis de CVs con un LLM vía API, lectura de PDFs y laboratorio de correo con IMAP/SMTP.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/Charla%20IA"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+---
+
+<h3>🔐 Ciberseguridad</h3>
+
+#### 🏦 HackerBank – Pentesting con Autenticación FIDO2 (Hackertech UTN-FRC)
+
+<p>Banco ficticio usado como <b>laboratorio de seguridad</b> en el evento Hackertech de la UTN FRC, con un segundo factor de autenticación moderno basado en <b>passkeys</b>.</p>
+
+<ul>
+  <li>Segundo factor con <b>WebAuthn/FIDO2</b> (huella, PIN, Windows Hello, Touch ID o llaves físicas) sin procesar datos biométricos en la app.</li>
+  <li>Flujo completo de registro y verificación: challenge-response, validación de origen, clave pública y contador de uso.</li>
+  <li>Guía para el equipo instructor y despliegue reproducible con Docker.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebAuthn%20/%20FIDO2-3B5998?style=flat-square&logo=fidoalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/HackerTech%20-%20UTNFRC"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+#### 💣 Escape Room HackerTech
+
+<p>Primera versión del banco: un <b>escape room de ciberseguridad</b> donde los participantes tenían que vulnerar un reconocimiento facial sin detección de vida usando una foto.</p>
+
+<ul>
+  <li>Login con reconocimiento facial, límite de intentos y una "bomba" que se desactiva al romper el segundo factor.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/EscapeRoomHackerTech%20-%20UTNFRC"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+#### 🕵️ Banco Vulnerable para Práctica de Pentesting
+
+<p>Sistema bancario web con <b>vulnerabilidades intencionales</b> para practicar hacking ético: un CTF con desafíos y pistas escondidas en un sistema de archivos simulado.</p>
+
+<ul>
+  <li>Vulnerabilidades de <b>RCE</b>, fallas de lógica en <b>OAuth2</b> (CSRF, client secret expuesto) y evasión de controles en <b>JWT</b>.</li>
+  <li>Aplicación aparte con los enunciados de los desafíos, todo contenerizado.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/Banco%20%28Seguridad%29"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+---
+
+<h3>⚙️ Backend, Integraciones y DevOps</h3>
+
+#### 🚗 doctaCar – Alquiler de Vehículos
+
+<p>Plataforma para <b>reservar autos en varias sucursales</b> sin que un mismo auto quede reservado dos veces: catálogo, registro de clientes, reservas, contratos y panel web.</p>
+
+<ul>
+  <li>API REST <b>contract-first</b> (OpenAPI) con autorización por scopes con <b>Auth0</b> y endpoint con API key.</li>
+  <li>Eventos asincrónicos con <b>RabbitMQ</b> y disponibilidad en tiempo real por <b>WebSocket</b>.</li>
+  <li>Observabilidad con logs JSON, métricas en <b>Grafana</b> y trazas en <b>Jaeger</b>; pruebas de carga con JMeter y CI con GitHub Actions.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/Shadow987654/TPI-IAEW"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+#### 🛫 Cierre de Rampa en Aeropuertos (n8n)
+
+<p>Automatización que evalúa <b>condiciones meteorológicas y avisos aeronáuticos (NOTAMs)</b>, decide si hay que cerrar la rampa y avisa en paralelo a cada área del aeropuerto.</p>
+
+<ul>
+  <li>Workflow de n8n autohospedado en una <b>VM Linux en Azure</b>, con un <b>LLM local (Ollama)</b> que extrae datos de los NOTAMs.</li>
+  <li>Integración con APIs de clima y vuelos, reportes en PDF y notificaciones por Telegram, correo y Trello.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/Proyectos%20n8n/aeropuertos-cierre-rampa-n8n"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+#### 🎮 Trivia en Vivo por Telegram (n8n)
+
+<p>Bot de <b>trivia en vivo</b> para charlas: los participantes juegan desde Telegram y un bot de administrador controla la partida y ve las respuestas en tiempo real.</p>
+
+<ul>
+  <li>Máquina de estados (lobby, juego, ranking final) en n8n, con dos bots separados y tabla de clasificación automática.</li>
+  <li>Scripts para importar y activar el workflow por la API REST de n8n, con tests de la lógica.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/Proyectos%20n8n/trivia-telegram-n8n"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+#### 🛡️ Pipeline CI/CD con Seguridad Automatizada
+
+<p>Aplicación de microservicios desplegada con un <b>pipeline de 8 etapas en GitLab</b> que incluye controles de seguridad en cada paso.</p>
+
+<ul>
+  <li>Escaneo de secretos, linting, análisis de Dockerfiles e infraestructura (<b>Checkov</b>), build, escaneo de imágenes (<b>Trivy</b>), deploy y tests de producción.</li>
+  <li>HTTPS con Nginx como proxy reverso.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Checkov-6C2BD9?style=flat-square&logo=paloaltonetworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/DevOps%20%28Gitlab%20CI-CD%29"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+#### 🐳 Aplicación de Microservicios Dockerizada
+
+<p>Aplicación de tareas con <b>arquitectura de microservicios</b> totalmente contenerizada.</p>
+
+<ul>
+  <li>Frontend React, API Flask, servicio de notificaciones FastAPI y Nginx como proxy reverso, orquestados con Docker Compose y Docker Secrets.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/DevOps%20%28Docker%29"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+#### 🚙 Agencias – Pruebas de Manejo con Microservicios
+
+<p>Backend para que las agencias de autos <b>gestionen pruebas de manejo</b> de sus vehículos y notifiquen a los interesados.</p>
+
+<ul>
+  <li>Microservicios con <b>API Gateway</b>, servicio de notificaciones desacoplado y autorización con <b>OAuth2</b>.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/Agencias"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+#### 🍷 BonVino – Ranking de Vinos
+
+<p>Aplicación web que <b>arma rankings de vinos</b> de bodegas a partir de las reseñas de sommeliers y los exporta a reportes.</p>
+
+<ul>
+  <li>Backend en capas con el patrón de diseño <b>Iterator</b> y frontend en React conectado por API REST.</li>
+</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/BonVino"><img src="https://img.shields.io/badge/Ver%20proyecto-1f5c99?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+
+---
+
 
 <details>
   <summary>📊 Algunas estadísticas ...</summary><br/>
