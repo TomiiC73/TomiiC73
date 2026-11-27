@@ -1,6 +1,12 @@
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=TomiiC73&show_icons=true&hide_border=false&line_height=20&title_color=1f5c99&icon_color=4f81bc&include_all_commits=true&count_private=true&locale=es"/>
-  <p>
+<p align="center">
+  <img src="assets/anim/banner-radar.svg" alt="Tomás Ezequiel Carrió · Backend, DevSecOps, Ciberseguridad e IA aplicada" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="assets/anim/terminal.svg" alt="Terminal: whoami, perfil, stack y contacto" width="100%"/>
+</p>
+
+<p align="center">
     <img src="assets/badges/java-007396-9a0adc.svg"/>
     <img src="assets/badges/spring-boot-6db33f-909986.svg"/>
     <img src="assets/badges/python-3776ab-7dc993.svg"/>
@@ -47,9 +53,7 @@
     <img src="assets/badges/trivy-1904da-05b5a4.svg"/>
     <img src="assets/badges/vs-code-007acc-37fdd5.svg"/>
     <img src="assets/badges/intellij-000000-45b75c.svg"/>
-  </p>
 </p>
-<br clear="left"/>
 <p>
   📣 ¿Querés contactarme? Encontrame acá:<br/>
   <a href="mailto:tomicarrio73@gmail.com?subject=[GitHub]%20Contacto"><img src="assets/badges/e-mail-d14836-3a2578.svg"/></a>
@@ -75,6 +79,8 @@
   🔗 ¿Querés hablar de algún proyecto? Mandame un <a href="mailto:tomicarrio73@gmail.com?subject=[GitHub]%20Contacto">mail</a> o escribime por <a href="https://www.linkedin.com/in/tomi-carrio73/">LinkedIn</a>.
 </p><br/>
 
+<p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
+
 <h3>🛠️ Conocimientos técnicos</h3>
 
 | Área | Tecnologías |
@@ -90,6 +96,8 @@
 | **Seguridad** | OAuth 2.0 / OIDC (PKCE, client credentials), JWT, Auth0, WebAuthn/FIDO2, detect-secrets, Checkov, Trivy, Nmap, Wireshark, Burp Suite |
 | **Redes** | Configuración básica de redes LAN/WAN y diagnóstico de conectividad |
 | **Metodologías y herramientas** | Agile, Scrum, Kanban, UML, BPMN, C4, ADR, Git, VS Code, IntelliJ |
+
+<p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
 
 <h2 align="center">🚀 Proyectos</h2>
 
@@ -357,6 +365,16 @@
 
 ---
 
+
+<p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
+
+<h3>📈 Mi actividad en 3D</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg"/>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuciones de GitHub en 3D" width="100%"/>
+</picture>
 
 <details>
   <summary>📊 Algunas estadísticas ...</summary><br/>
