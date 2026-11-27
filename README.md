@@ -165,7 +165,7 @@
 
 <h2>🔐 Ciberseguridad</h2>
 
-<a href="https://github.com/TomiiC73/Proyectos/tree/main/HackerTech%20-%20UTNFRC"><img src="assets/titulos/hackerbank-pentesting-con-autenticacion-fido2-hack.svg" alt="HackerBank – Pentesting con Autenticación FIDO2 (Hackertech UTN-FRC)" width="100%"/></a>
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/HackerTech%20-%20UTNFRC"><img src="assets/titulos/hackerbank-autenticacion-fido2-hackertech-utn-frc.svg" alt="HackerBank – Autenticación FIDO2 (Hackertech UTN-FRC)" width="100%"/></a>
 
 <p>Banco ficticio usado como <b>laboratorio de seguridad</b> en el evento Hackertech de la UTN FRC, con un segundo factor de autenticación moderno basado en <b>passkeys</b>.</p>
 
