@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/anim/terminal.svg" alt="Terminal: whoami, perfil, stack y contacto" width="100%"/>
+  <img src="assets/anim/terminal-v2.svg" alt="Terminal: whoami, perfil, stack y contacto" width="100%"/>
 </p>
 
 <p align="center">
@@ -375,13 +375,3 @@
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg"/>
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuciones de GitHub en 3D" width="100%"/>
 </picture>
-
-<details>
-  <summary>📊 Algunas estadísticas ...</summary><br/>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomiiC73&layout=compact&hide_border=false&title_color=1f5c99&locale=es"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=TomiiC73&locale=es&hide_border=false"/>
-</p>
-
-</details>
