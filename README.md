@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/anim/terminal-v2.svg" alt="Terminal: whoami, perfil, stack y contacto" width="100%"/>
+  <img src="assets/anim/terminal-v3.svg" alt="Terminal: whoami, perfil, stack y contacto" width="100%"/>
 </p>
 
 <p align="center">
@@ -93,6 +93,14 @@
   <img src="assets/badges/github-181717-d72abc.svg" alt="GitHub"/>
   <img src="assets/badges/vs-code-007acc-af6c8a.svg" alt="VS Code"/>
   <img src="assets/badges/intellij-000000-6bc3cc.svg" alt="IntelliJ"/>
+</p>
+
+#### 📋 Gestión de proyectos
+
+<p>
+  <img src="assets/badges/jira-0052cc-58e7a1.svg" alt="Jira"/>
+  <img src="assets/badges/trello-0052cc-0c1793.svg" alt="Trello"/>
+  <img src="assets/badges/miro-050038-abbe5b.svg" alt="Miro"/>
 </p>
 
 <p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
