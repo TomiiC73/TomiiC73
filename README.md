@@ -103,7 +103,6 @@
   <img src="assets/badges/miro-050038-abbe5b.svg" alt="Miro"/>
 </p>
 
-<p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
 
 ## 🤖 Inteligencia Artificial
 
@@ -137,7 +136,6 @@
 
 > 🔧 Integro modelos de visión por computadora y LLMs locales en sistemas funcionales: detección y segmentación de objetos, extracción de datos estructurados con IA y automatizaciones que toman decisiones a partir de datos en tiempo real.
 
-<p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
 
 ## 🔐 Ciberseguridad
 
@@ -452,7 +450,6 @@
 
 ---
 
-<p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
 
 <h3>📈 Mi actividad en 3D</h3>
 
