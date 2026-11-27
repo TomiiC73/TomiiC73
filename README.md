@@ -1,61 +1,61 @@
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=TomiiC73&show_icons=true&hide_border=false&line_height=20&title_color=1f5c99&icon_color=4f81bc&include_all_commits=true&count_private=true&locale=es"/>
   <p>
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+    <img src="assets/badges/java-007396-9a0adc.svg"/>
+    <img src="assets/badges/spring-boot-6db33f-909986.svg"/>
+    <img src="assets/badges/python-3776ab-7dc993.svg"/>
+    <img src="assets/badges/fastapi-009688-cdb0f8.svg"/>
+    <img src="assets/badges/flask-000000-9ab129.svg"/>
+    <img src="assets/badges/javascript-f7df1e-b7ba09.svg"/>
+    <img src="assets/badges/node-js-339933-b6ceb3.svg"/>
+    <img src="assets/badges/react-20232a-271392.svg"/>
+    <img src="assets/badges/mysql-4479a1-7f1bda.svg"/>
+    <img src="assets/badges/sqlite-003b57-11e388.svg"/>
+    <img src="assets/badges/mongodb-47a248-dd5639.svg"/>
+    <img src="assets/badges/rabbitmq-ff6600-d37558.svg"/><br/>
+    <img src="assets/badges/linux-fcc624-d3bfd6.svg"/>
+    <img src="assets/badges/docker-2496ed-770ee2.svg"/>
+    <img src="assets/badges/kubernetes-326ce5-5161a8.svg"/>
+    <img src="assets/badges/gitlab-ci-fc6d26-c093d6.svg"/>
+    <img src="assets/badges/github-actions-2088ff-32c583.svg"/>
+    <img src="assets/badges/nginx-009639-c023e8.svg"/>
+    <img src="assets/badges/azure-0078d4-47beb0.svg"/>
+    <img src="assets/badges/grafana-f46800-04e74e.svg"/>
+    <img src="assets/badges/prometheus-e6522c-22bbb6.svg"/>
+    <img src="assets/badges/pytorch-ee4c2c-efa246.svg"/>
+    <img src="assets/badges/hugging-face-ffd21e-a9e3bf.svg"/>
+    <img src="assets/badges/ollama-000000-9bf4f6.svg"/>
+    <img src="assets/badges/n8n-ea4b71-6bd78b.svg"/>
+    <img src="assets/badges/auth0-eb5424-648670.svg"/>
+    <img src="assets/badges/burp-suite-ff6633-e9aac2.svg"/>
+    <img src="assets/badges/wireshark-1679a7-6c2ea9.svg"/>
+    <img src="assets/badges/postman-ff6c37-acc993.svg"/>
+    <img src="assets/badges/git-f05032-e6c027.svg"/>
+    <img src="assets/badges/bash-4eaa25-2393c6.svg"/>
+    <img src="assets/badges/hibernate-59666c-a469ec.svg"/>
+    <img src="assets/badges/express-000000-9af85e.svg"/>
+    <img src="assets/badges/mariadb-003545-26b926.svg"/>
+    <img src="assets/badges/sql-server-cc2927-dc7606.svg"/>
+    <img src="assets/badges/swagger-85ea2d-875347.svg"/>
+    <img src="assets/badges/jaeger-66cfe3-a545b2.svg"/>
+    <img src="assets/badges/jmeter-d22128-3200a9.svg"/>
+    <img src="assets/badges/pytest-0a9edc-61581e.svg"/>
+    <img src="assets/badges/junit-25a162-368b4b.svg"/>
+    <img src="assets/badges/jupyter-f37626-05993e.svg"/>
+    <img src="assets/badges/numpy-013243-fb70f9.svg"/>
+    <img src="assets/badges/pandas-150458-52f77e.svg"/>
+    <img src="assets/badges/trivy-1904da-05b5a4.svg"/>
+    <img src="assets/badges/vs-code-007acc-37fdd5.svg"/>
+    <img src="assets/badges/intellij-000000-45b75c.svg"/>
   </p>
 </p>
 <br clear="left"/>
 <p>
   📣 ¿Querés contactarme? Encontrame acá:<br/>
-  <a href="mailto:tomicarrio73@gmail.com?subject=[GitHub]%20Contacto"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tomi-carrio73/"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/tomi.carrio73/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/TomiiC73/Proyectos"><img src="https://img.shields.io/badge/portafolio-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:tomicarrio73@gmail.com?subject=[GitHub]%20Contacto"><img src="assets/badges/e-mail-d14836-3a2578.svg"/></a>
+  <a href="https://www.linkedin.com/in/tomi-carrio73/"><img src="assets/badges/linkedin-0a66c2-e0fc37.svg"/></a>
+  <a href="https://www.instagram.com/tomi.carrio73/"><img src="assets/badges/instagram-e4405f-4c5ad4.svg"/></a>
+  <a href="https://github.com/TomiiC73/Proyectos"><img src="assets/badges/portafolio-181717-6ec810.svg"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=TomiiC73&label=Visitas&color=1f5c99&style=flat-square"/>
@@ -106,18 +106,16 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Ultralytics-111F68?style=flat-square&logo=ultralytics&logoColor=white" alt="Ultralytics"/>
-  <img src="https://img.shields.io/badge/SAM-0467DF?style=flat-square&logo=meta&logoColor=white" alt="SAM"/>
-  <img src="https://img.shields.io/badge/OWLv2-4285F4?style=flat-square&logo=google&logoColor=white" alt="OWLv2"/>
-  <img src="https://img.shields.io/badge/Qwen3-615CED?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen3"/>
-  <img src="https://img.shields.io/badge/JSON%20Schema-000000?style=flat-square&logo=json&logoColor=white" alt="JSON Schema"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="assets/badges/python-3776ab-4d3b31.svg" alt="Python"/>
+  <img src="assets/badges/pytorch-ee4c2c-5a32af.svg" alt="PyTorch"/>
+  <img src="assets/badges/hugging-face-ffd21e-3efd8f.svg" alt="Hugging Face"/>
+  <img src="assets/badges/ultralytics-111f68-8dfc96.svg" alt="Ultralytics"/>
+  <img src="assets/badges/sam-0467df-525284.svg" alt="SAM"/>
+  <img src="assets/badges/owlv2-4285f4-73f2f0.svg" alt="OWLv2"/>
+  <img src="assets/badges/qwen3-615ced-b5bd31.svg" alt="Qwen3"/>
+  <img src="assets/badges/json-schema-000000-92b70c.svg" alt="JSON Schema"/>
+  <img src="assets/badges/jupyter-f37626-26cb7c.svg" alt="Jupyter"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/IA%20-%20Modelo%20para%20detectar%20objetos%20en%20imagenes"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 #### [🦖 Agente de Aprendizaje por Refuerzo – Dinosaurio de Chrome](https://github.com/TomiiC73/Aprendizaje-Automatico)
@@ -130,12 +128,10 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="assets/badges/python-3776ab-4d3b31.svg" alt="Python"/>
+  <img src="assets/badges/numpy-013243-c2eaea.svg" alt="NumPy"/>
+  <img src="assets/badges/matplotlib-11557c-692df8.svg" alt="Matplotlib"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Aprendizaje-Automatico"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 #### [🎤 Laboratorio de Prompt Injection](https://github.com/TomiiC73/Proyectos/tree/main/Charla%20IA)
@@ -147,13 +143,11 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="assets/badges/node-js-339933-83689d.svg" alt="Node.js"/>
+  <img src="assets/badges/express-000000-5c9c03.svg" alt="Express"/>
+  <img src="assets/badges/groq-f55036-d70b45.svg" alt="Groq"/>
+  <img src="assets/badges/javascript-f7df1e-b2cb50.svg" alt="JavaScript"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/Charla%20IA"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 ---
@@ -171,15 +165,13 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/WebAuthn%20%2F%20FIDO2-3B5998?style=flat-square&logo=fidoalliance&logoColor=white" alt="WebAuthn / FIDO2"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="assets/badges/python-3776ab-4d3b31.svg" alt="Python"/>
+  <img src="assets/badges/flask-000000-5e6e84.svg" alt="Flask"/>
+  <img src="assets/badges/webauthn-fido2-3b5998-33ae47.svg" alt="WebAuthn / FIDO2"/>
+  <img src="assets/badges/javascript-f7df1e-b2cb50.svg" alt="JavaScript"/>
+  <img src="assets/badges/sqlite-003b57-3f1f88.svg" alt="SQLite"/>
+  <img src="assets/badges/docker-2496ed-fb548f.svg" alt="Docker"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/HackerTech%20-%20UTNFRC"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 #### [💣 Escape Room HackerTech](https://github.com/TomiiC73/Proyectos/tree/main/EscapeRoomHackerTech%20-%20UTNFRC)
@@ -191,13 +183,11 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="assets/badges/python-3776ab-4d3b31.svg" alt="Python"/>
+  <img src="assets/badges/flask-000000-5e6e84.svg" alt="Flask"/>
+  <img src="assets/badges/sqlite-003b57-3f1f88.svg" alt="SQLite"/>
+  <img src="assets/badges/docker-2496ed-fb548f.svg" alt="Docker"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/EscapeRoomHackerTech%20-%20UTNFRC"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 #### [🕵️ Banco Vulnerable para Práctica de Pentesting](https://github.com/TomiiC73/Proyectos/tree/main/Banco%20%28Seguridad%29)
@@ -210,16 +200,14 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth2"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="assets/badges/python-3776ab-4d3b31.svg" alt="Python"/>
+  <img src="assets/badges/flask-000000-5e6e84.svg" alt="Flask"/>
+  <img src="assets/badges/oauth2-eb5424-393ef1.svg" alt="OAuth2"/>
+  <img src="assets/badges/jwt-000000-dc6a5b.svg" alt="JWT"/>
+  <img src="assets/badges/sqlite-003b57-3f1f88.svg" alt="SQLite"/>
+  <img src="assets/badges/bootstrap-7952b3-8eeeef.svg" alt="Bootstrap"/>
+  <img src="assets/badges/docker-2496ed-fb548f.svg" alt="Docker"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/Banco%20%28Seguridad%29"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 ---
@@ -237,22 +225,20 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket"/>
-  <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="Auth0"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black" alt="Jaeger"/>
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="assets/badges/python-3776ab-4d3b31.svg" alt="Python"/>
+  <img src="assets/badges/fastapi-009688-9f52d9.svg" alt="FastAPI"/>
+  <img src="assets/badges/react-20232a-b5a018.svg" alt="React"/>
+  <img src="assets/badges/rabbitmq-ff6600-daa703.svg" alt="RabbitMQ"/>
+  <img src="assets/badges/websocket-010101-cecf62.svg" alt="WebSocket"/>
+  <img src="assets/badges/auth0-eb5424-4ee5ad.svg" alt="Auth0"/>
+  <img src="assets/badges/sqlite-003b57-3f1f88.svg" alt="SQLite"/>
+  <img src="assets/badges/docker-2496ed-fb548f.svg" alt="Docker"/>
+  <img src="assets/badges/prometheus-e6522c-877ba6.svg" alt="Prometheus"/>
+  <img src="assets/badges/grafana-f46800-44879e.svg" alt="Grafana"/>
+  <img src="assets/badges/jaeger-66cfe3-71e1e8.svg" alt="Jaeger"/>
+  <img src="assets/badges/jmeter-d22128-553069.svg" alt="JMeter"/>
+  <img src="assets/badges/github-actions-2088ff-2f0b67.svg" alt="GitHub Actions"/>
 </p>
-
-<p><a href="https://github.com/Shadow987654/TPI-IAEW"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 #### [🛫 Cierre de Rampa en Aeropuertos (n8n)](https://github.com/TomiiC73/Proyectos/tree/main/Proyectos%20n8n/aeropuertos-cierre-rampa-n8n)
@@ -265,16 +251,14 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="assets/badges/n8n-ea4b71-e79392.svg" alt="n8n"/>
+  <img src="assets/badges/ollama-000000-e79cad.svg" alt="Ollama"/>
+  <img src="assets/badges/javascript-f7df1e-b2cb50.svg" alt="JavaScript"/>
+  <img src="assets/badges/docker-2496ed-fb548f.svg" alt="Docker"/>
+  <img src="assets/badges/azure-0078d4-1d8c45.svg" alt="Azure"/>
+  <img src="assets/badges/linux-fcc624-f9875a.svg" alt="Linux"/>
+  <img src="assets/badges/telegram-26a5e4-27d2df.svg" alt="Telegram"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/Proyectos%20n8n/aeropuertos-cierre-rampa-n8n"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 #### [🎮 Trivia en Vivo por Telegram (n8n)](https://github.com/TomiiC73/Proyectos/tree/main/Proyectos%20n8n/trivia-telegram-n8n)
@@ -287,13 +271,11 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="assets/badges/n8n-ea4b71-e79392.svg" alt="n8n"/>
+  <img src="assets/badges/telegram-26a5e4-27d2df.svg" alt="Telegram"/>
+  <img src="assets/badges/javascript-f7df1e-b2cb50.svg" alt="JavaScript"/>
+  <img src="assets/badges/node-js-339933-83689d.svg" alt="Node.js"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/Proyectos%20n8n/trivia-telegram-n8n"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 #### [🛡️ Pipeline CI/CD con Seguridad Automatizada](https://github.com/TomiiC73/Proyectos/tree/main/DevOps%20%28Gitlab%20CI-CD%29)
@@ -306,18 +288,16 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy"/>
-  <img src="https://img.shields.io/badge/Checkov-6C2BD9?style=flat-square" alt="Checkov"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="assets/badges/gitlab-ci-cd-fc6d26-adcac4.svg" alt="GitLab CI/CD"/>
+  <img src="assets/badges/docker-2496ed-fb548f.svg" alt="Docker"/>
+  <img src="assets/badges/docker-compose-2496ed-ff5796.svg" alt="Docker Compose"/>
+  <img src="assets/badges/nginx-009639-f30dc4.svg" alt="Nginx"/>
+  <img src="assets/badges/trivy-1904da-c25ab6.svg" alt="Trivy"/>
+  <img src="assets/badges/checkov-6c2bd9-ae0aca.svg" alt="Checkov"/>
+  <img src="assets/badges/react-20232a-b5a018.svg" alt="React"/>
+  <img src="assets/badges/flask-000000-5e6e84.svg" alt="Flask"/>
+  <img src="assets/badges/fastapi-009688-9f52d9.svg" alt="FastAPI"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/DevOps%20%28Gitlab%20CI-CD%29"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 #### [🐳 Aplicación de Microservicios Dockerizada](https://github.com/TomiiC73/Proyectos/tree/main/DevOps%20%28Docker%29)
@@ -329,16 +309,14 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="assets/badges/docker-2496ed-fb548f.svg" alt="Docker"/>
+  <img src="assets/badges/docker-compose-2496ed-ff5796.svg" alt="Docker Compose"/>
+  <img src="assets/badges/react-20232a-b5a018.svg" alt="React"/>
+  <img src="assets/badges/flask-000000-5e6e84.svg" alt="Flask"/>
+  <img src="assets/badges/fastapi-009688-9f52d9.svg" alt="FastAPI"/>
+  <img src="assets/badges/mysql-4479a1-bd4013.svg" alt="MySQL"/>
+  <img src="assets/badges/nginx-009639-f30dc4.svg" alt="Nginx"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/DevOps%20%28Docker%29"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 #### [🚙 Agencias – Pruebas de Manejo con Microservicios](https://github.com/TomiiC73/Proyectos/tree/main/Agencias)
@@ -350,16 +328,14 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud Gateway"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth2"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="assets/badges/java-007396-ee935b.svg" alt="Java"/>
+  <img src="assets/badges/spring-boot-6db33f-4ad68c.svg" alt="Spring Boot"/>
+  <img src="assets/badges/spring-cloud-gateway-6db33f-852ce5.svg" alt="Spring Cloud Gateway"/>
+  <img src="assets/badges/hibernate-59666c-3b1134.svg" alt="Hibernate"/>
+  <img src="assets/badges/mysql-4479a1-bd4013.svg" alt="MySQL"/>
+  <img src="assets/badges/oauth2-eb5424-393ef1.svg" alt="OAuth2"/>
+  <img src="assets/badges/postman-ff6c37-974243.svg" alt="Postman"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/Agencias"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 #### [🍷 BonVino – Ranking de Vinos](https://github.com/TomiiC73/Proyectos/tree/main/BonVino)
@@ -371,14 +347,12 @@
 </ul>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="assets/badges/java-007396-ee935b.svg" alt="Java"/>
+  <img src="assets/badges/spring-boot-6db33f-4ad68c.svg" alt="Spring Boot"/>
+  <img src="assets/badges/react-20232a-b5a018.svg" alt="React"/>
+  <img src="assets/badges/hibernate-59666c-3b1134.svg" alt="Hibernate"/>
+  <img src="assets/badges/mysql-4479a1-bd4013.svg" alt="MySQL"/>
 </p>
-
-<p><a href="https://github.com/TomiiC73/Proyectos/tree/main/BonVino"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-1F5C99?style=for-the-badge&logo=github&logoColor=white" alt="Ver código"/></a></p>
 
 
 ---
