@@ -99,11 +99,11 @@
 
 <p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
 
-<h2 align="center">🚀 Proyectos</h2>
+<h1 align="center">🚀 Proyectos</h1>
 
-<h3>🤖 Inteligencia Artificial</h3>
+<h2>🤖 Inteligencia Artificial</h2>
 
-#### [👁️ Detección y Comprensión de Objetos en Imágenes](https://github.com/TomiiC73/Proyectos/tree/main/IA%20-%20Modelo%20para%20detectar%20objetos%20en%20imagenes)
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/IA%20-%20Modelo%20para%20detectar%20objetos%20en%20imagenes"><img src="assets/titulos/deteccion-y-comprension-de-objetos-en-imagenes.svg" alt="Detección y Comprensión de Objetos en Imágenes" width="100%"/></a>
 
 <p>Sistema que <b>mira una imagen y la entiende</b>: detecta y segmenta cada objeto, describe la escena en un formato estructurado y responde preguntas sobre ella en lenguaje natural.</p>
 
@@ -125,8 +125,9 @@
   <img src="assets/badges/jupyter-f37626-26cb7c.svg" alt="Jupyter"/>
 </p>
 
+<br/>
 
-#### [🦖 Agente de Aprendizaje por Refuerzo – Dinosaurio de Chrome](https://github.com/TomiiC73/Aprendizaje-Automatico)
+<a href="https://github.com/TomiiC73/Aprendizaje-Automatico"><img src="assets/titulos/agente-de-aprendizaje-por-refuerzo-dinosaurio-de-c.svg" alt="Agente de Aprendizaje por Refuerzo – Dinosaurio de Chrome" width="100%"/></a>
 
 <p>Un agente que <b>aprende solo a jugar</b> al juego del dinosaurio de Chrome, esquivando cactus y pájaros a partir de recompensas.</p>
 
@@ -141,8 +142,9 @@
   <img src="assets/badges/matplotlib-11557c-692df8.svg" alt="Matplotlib"/>
 </p>
 
+<br/>
 
-#### [🎤 Laboratorio de Prompt Injection](https://github.com/TomiiC73/Proyectos/tree/main/Charla%20IA)
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/Charla%20IA"><img src="assets/titulos/laboratorio-de-prompt-injection.svg" alt="Laboratorio de Prompt Injection" width="100%"/></a>
 
 <p>Simulador de un <b>filtro de candidatos (ATS) con IA</b> que evalúa CVs en PDF con un LLM. Lo usé en una charla para mostrar en vivo cómo instrucciones ocultas en un documento o un correo <b>manipulan la decisión del modelo</b>.</p>
 
@@ -157,12 +159,13 @@
   <img src="assets/badges/javascript-f7df1e-b2cb50.svg" alt="JavaScript"/>
 </p>
 
+<br/>
 
 ---
 
-<h3>🔐 Ciberseguridad</h3>
+<h2>🔐 Ciberseguridad</h2>
 
-#### [🏦 HackerBank – Pentesting con Autenticación FIDO2 (Hackertech UTN-FRC)](https://github.com/TomiiC73/Proyectos/tree/main/HackerTech%20-%20UTNFRC)
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/HackerTech%20-%20UTNFRC"><img src="assets/titulos/hackerbank-pentesting-con-autenticacion-fido2-hack.svg" alt="HackerBank – Pentesting con Autenticación FIDO2 (Hackertech UTN-FRC)" width="100%"/></a>
 
 <p>Banco ficticio usado como <b>laboratorio de seguridad</b> en el evento Hackertech de la UTN FRC, con un segundo factor de autenticación moderno basado en <b>passkeys</b>.</p>
 
@@ -181,8 +184,9 @@
   <img src="assets/badges/docker-2496ed-fb548f.svg" alt="Docker"/>
 </p>
 
+<br/>
 
-#### [💣 Escape Room HackerTech](https://github.com/TomiiC73/Proyectos/tree/main/EscapeRoomHackerTech%20-%20UTNFRC)
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/EscapeRoomHackerTech%20-%20UTNFRC"><img src="assets/titulos/escape-room-hackertech.svg" alt="Escape Room HackerTech" width="100%"/></a>
 
 <p>Primera versión del banco: un <b>escape room de ciberseguridad</b> donde los participantes tenían que vulnerar un reconocimiento facial sin detección de vida usando una foto.</p>
 
@@ -197,8 +201,9 @@
   <img src="assets/badges/docker-2496ed-fb548f.svg" alt="Docker"/>
 </p>
 
+<br/>
 
-#### [🕵️ Banco Vulnerable para Práctica de Pentesting](https://github.com/TomiiC73/Proyectos/tree/main/Banco%20%28Seguridad%29)
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/Banco%20%28Seguridad%29"><img src="assets/titulos/banco-vulnerable-para-practica-de-pentesting.svg" alt="Banco Vulnerable para Práctica de Pentesting" width="100%"/></a>
 
 <p>Sistema bancario web con <b>vulnerabilidades intencionales</b> para practicar hacking ético: un CTF con desafíos y pistas escondidas en un sistema de archivos simulado.</p>
 
@@ -217,12 +222,13 @@
   <img src="assets/badges/docker-2496ed-fb548f.svg" alt="Docker"/>
 </p>
 
+<br/>
 
 ---
 
-<h3>⚙️ Backend, Integraciones y DevOps</h3>
+<h2>⚙️ Backend, Integraciones y DevOps</h2>
 
-#### [🚗 doctaCar – Alquiler de Vehículos](https://github.com/Shadow987654/TPI-IAEW)
+<a href="https://github.com/Shadow987654/TPI-IAEW"><img src="assets/titulos/doctacar-alquiler-de-vehiculos.svg" alt="doctaCar – Alquiler de Vehículos" width="100%"/></a>
 
 <p>Plataforma para <b>reservar autos en varias sucursales</b> sin que un mismo auto quede reservado dos veces: catálogo, registro de clientes, reservas, contratos y panel web.</p>
 
@@ -248,8 +254,9 @@
   <img src="assets/badges/github-actions-2088ff-2f0b67.svg" alt="GitHub Actions"/>
 </p>
 
+<br/>
 
-#### [🛫 Cierre de Rampa en Aeropuertos (n8n)](https://github.com/TomiiC73/Proyectos/tree/main/Proyectos%20n8n/aeropuertos-cierre-rampa-n8n)
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/Proyectos%20n8n/aeropuertos-cierre-rampa-n8n"><img src="assets/titulos/cierre-de-rampa-en-aeropuertos-n8n.svg" alt="Cierre de Rampa en Aeropuertos (n8n)" width="100%"/></a>
 
 <p>Automatización que evalúa <b>condiciones meteorológicas y avisos aeronáuticos (NOTAMs)</b>, decide si hay que cerrar la rampa y avisa en paralelo a cada área del aeropuerto.</p>
 
@@ -268,8 +275,9 @@
   <img src="assets/badges/telegram-26a5e4-27d2df.svg" alt="Telegram"/>
 </p>
 
+<br/>
 
-#### [🎮 Trivia en Vivo por Telegram (n8n)](https://github.com/TomiiC73/Proyectos/tree/main/Proyectos%20n8n/trivia-telegram-n8n)
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/Proyectos%20n8n/trivia-telegram-n8n"><img src="assets/titulos/trivia-en-vivo-por-telegram-n8n.svg" alt="Trivia en Vivo por Telegram (n8n)" width="100%"/></a>
 
 <p>Bot de <b>trivia en vivo</b> para charlas: los participantes juegan desde Telegram y un bot de administrador controla la partida y ve las respuestas en tiempo real.</p>
 
@@ -285,8 +293,9 @@
   <img src="assets/badges/node-js-339933-83689d.svg" alt="Node.js"/>
 </p>
 
+<br/>
 
-#### [🛡️ Pipeline CI/CD con Seguridad Automatizada](https://github.com/TomiiC73/Proyectos/tree/main/DevOps%20%28Gitlab%20CI-CD%29)
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/DevOps%20%28Gitlab%20CI-CD%29"><img src="assets/titulos/pipeline-ci-cd-con-seguridad-automatizada.svg" alt="Pipeline CI/CD con Seguridad Automatizada" width="100%"/></a>
 
 <p>Aplicación de microservicios desplegada con un <b>pipeline de 8 etapas en GitLab</b> que incluye controles de seguridad en cada paso.</p>
 
@@ -307,8 +316,9 @@
   <img src="assets/badges/fastapi-009688-9f52d9.svg" alt="FastAPI"/>
 </p>
 
+<br/>
 
-#### [🐳 Aplicación de Microservicios Dockerizada](https://github.com/TomiiC73/Proyectos/tree/main/DevOps%20%28Docker%29)
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/DevOps%20%28Docker%29"><img src="assets/titulos/aplicacion-de-microservicios-dockerizada.svg" alt="Aplicación de Microservicios Dockerizada" width="100%"/></a>
 
 <p>Aplicación de tareas con <b>arquitectura de microservicios</b> totalmente contenerizada.</p>
 
@@ -326,8 +336,9 @@
   <img src="assets/badges/nginx-009639-f30dc4.svg" alt="Nginx"/>
 </p>
 
+<br/>
 
-#### [🚙 Agencias – Pruebas de Manejo con Microservicios](https://github.com/TomiiC73/Proyectos/tree/main/Agencias)
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/Agencias"><img src="assets/titulos/agencias-pruebas-de-manejo-con-microservicios.svg" alt="Agencias – Pruebas de Manejo con Microservicios" width="100%"/></a>
 
 <p>Backend para que las agencias de autos <b>gestionen pruebas de manejo</b> de sus vehículos y notifiquen a los interesados.</p>
 
@@ -340,13 +351,15 @@
   <img src="assets/badges/spring-boot-6db33f-4ad68c.svg" alt="Spring Boot"/>
   <img src="assets/badges/spring-cloud-gateway-6db33f-852ce5.svg" alt="Spring Cloud Gateway"/>
   <img src="assets/badges/hibernate-59666c-3b1134.svg" alt="Hibernate"/>
-  <img src="assets/badges/mysql-4479a1-bd4013.svg" alt="MySQL"/>
+  <img src="assets/badges/sqlite-003b57-3f1f88.svg" alt="SQLite"/>
+  <img src="assets/badges/keycloak-4d4d4d-a54af2.svg" alt="Keycloak"/>
   <img src="assets/badges/oauth2-eb5424-393ef1.svg" alt="OAuth2"/>
   <img src="assets/badges/postman-ff6c37-974243.svg" alt="Postman"/>
 </p>
 
+<br/>
 
-#### [🍷 BonVino – Ranking de Vinos](https://github.com/TomiiC73/Proyectos/tree/main/BonVino)
+<a href="https://github.com/TomiiC73/Proyectos/tree/main/BonVino"><img src="assets/titulos/bonvino-ranking-de-vinos.svg" alt="BonVino – Ranking de Vinos" width="100%"/></a>
 
 <p>Aplicación web que <b>arma rankings de vinos</b> de bodegas a partir de las reseñas de sommeliers y los exporta a reportes.</p>
 
@@ -359,12 +372,12 @@
   <img src="assets/badges/spring-boot-6db33f-4ad68c.svg" alt="Spring Boot"/>
   <img src="assets/badges/react-20232a-b5a018.svg" alt="React"/>
   <img src="assets/badges/hibernate-59666c-3b1134.svg" alt="Hibernate"/>
-  <img src="assets/badges/mysql-4479a1-bd4013.svg" alt="MySQL"/>
+  <img src="assets/badges/sqlite-003b57-3f1f88.svg" alt="SQLite"/>
 </p>
 
+<br/>
 
 ---
-
 
 <p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
 
