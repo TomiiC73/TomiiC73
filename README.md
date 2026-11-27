@@ -7,95 +7,160 @@
 </p>
 
 <p align="center">
-    <img src="assets/badges/java-007396-9a0adc.svg"/>
-    <img src="assets/badges/spring-boot-6db33f-909986.svg"/>
-    <img src="assets/badges/python-3776ab-7dc993.svg"/>
-    <img src="assets/badges/fastapi-009688-cdb0f8.svg"/>
-    <img src="assets/badges/flask-000000-9ab129.svg"/>
-    <img src="assets/badges/javascript-f7df1e-b7ba09.svg"/>
-    <img src="assets/badges/node-js-339933-b6ceb3.svg"/>
-    <img src="assets/badges/react-20232a-271392.svg"/>
-    <img src="assets/badges/mysql-4479a1-7f1bda.svg"/>
-    <img src="assets/badges/sqlite-003b57-11e388.svg"/>
-    <img src="assets/badges/mongodb-47a248-dd5639.svg"/>
-    <img src="assets/badges/rabbitmq-ff6600-d37558.svg"/><br/>
-    <img src="assets/badges/linux-fcc624-d3bfd6.svg"/>
-    <img src="assets/badges/docker-2496ed-770ee2.svg"/>
-    <img src="assets/badges/kubernetes-326ce5-5161a8.svg"/>
-    <img src="assets/badges/gitlab-ci-fc6d26-c093d6.svg"/>
-    <img src="assets/badges/github-actions-2088ff-32c583.svg"/>
-    <img src="assets/badges/nginx-009639-c023e8.svg"/>
-    <img src="assets/badges/azure-0078d4-47beb0.svg"/>
-    <img src="assets/badges/grafana-f46800-04e74e.svg"/>
-    <img src="assets/badges/prometheus-e6522c-22bbb6.svg"/>
-    <img src="assets/badges/pytorch-ee4c2c-efa246.svg"/>
-    <img src="assets/badges/hugging-face-ffd21e-a9e3bf.svg"/>
-    <img src="assets/badges/ollama-000000-9bf4f6.svg"/>
-    <img src="assets/badges/n8n-ea4b71-6bd78b.svg"/>
-    <img src="assets/badges/auth0-eb5424-648670.svg"/>
-    <img src="assets/badges/burp-suite-ff6633-e9aac2.svg"/>
-    <img src="assets/badges/wireshark-1679a7-6c2ea9.svg"/>
-    <img src="assets/badges/postman-ff6c37-acc993.svg"/>
-    <img src="assets/badges/git-f05032-e6c027.svg"/>
-    <img src="assets/badges/bash-4eaa25-2393c6.svg"/>
-    <img src="assets/badges/hibernate-59666c-a469ec.svg"/>
-    <img src="assets/badges/express-000000-9af85e.svg"/>
-    <img src="assets/badges/mariadb-003545-26b926.svg"/>
-    <img src="assets/badges/sql-server-cc2927-dc7606.svg"/>
-    <img src="assets/badges/swagger-85ea2d-875347.svg"/>
-    <img src="assets/badges/jaeger-66cfe3-a545b2.svg"/>
-    <img src="assets/badges/jmeter-d22128-3200a9.svg"/>
-    <img src="assets/badges/pytest-0a9edc-61581e.svg"/>
-    <img src="assets/badges/junit-25a162-368b4b.svg"/>
-    <img src="assets/badges/jupyter-f37626-05993e.svg"/>
-    <img src="assets/badges/numpy-013243-fb70f9.svg"/>
-    <img src="assets/badges/pandas-150458-52f77e.svg"/>
-    <img src="assets/badges/trivy-1904da-05b5a4.svg"/>
-    <img src="assets/badges/vs-code-007acc-37fdd5.svg"/>
-    <img src="assets/badges/intellij-000000-45b75c.svg"/>
-</p>
-<p>
-  📣 ¿Querés contactarme? Encontrame acá:<br/>
-  <a href="mailto:tomicarrio73@gmail.com?subject=[GitHub]%20Contacto"><img src="assets/badges/e-mail-d14836-3a2578.svg"/></a>
-  <a href="https://www.linkedin.com/in/tomi-carrio73/"><img src="assets/badges/linkedin-0a66c2-e0fc37.svg"/></a>
-  <a href="https://www.instagram.com/tomi.carrio73/"><img src="assets/badges/instagram-e4405f-4c5ad4.svg"/></a>
-  <a href="https://github.com/TomiiC73/Proyectos"><img src="assets/badges/portafolio-181717-6ec810.svg"/></a>
+  <a href="mailto:tomicarrio73@gmail.com?subject=[GitHub]%20Contacto"><img src="assets/badges/e-mail-d14836-3a2578.svg" alt="E-mail"/></a>
+  <a href="https://www.linkedin.com/in/tomi-carrio73/"><img src="assets/badges/linkedin-0a66c2-e0fc37.svg" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/tomi.carrio73/"><img src="assets/badges/instagram-e4405f-4c5ad4.svg" alt="Instagram"/></a>
+  <a href="https://github.com/TomiiC73/Proyectos"><img src="assets/badges/portafolio-181717-6ec810.svg" alt="Portafolio"/></a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=TomiiC73&label=Visitas&color=1f5c99&style=flat-square" alt="Visitas"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=TomiiC73&label=Visitas&color=1f5c99&style=flat-square"/>
-<h3>⚡️ Backend · DevSecOps · IA aplicada ⚡️</h3>
-<p>
-  Estudiante avanzado de Ingeniería en Sistemas de Información orientado al desarrollo backend, la seguridad informática y la inteligencia artificial. Me gusta construir sistemas completos: desde la API y la base de datos hasta el despliegue en contenedores, la observabilidad y los controles de seguridad, sumando modelos de IA cuando aportan valor real.
-</p>
-<p>
-  🧑‍💻 Soy <b>Tomás</b>, estudiante avanzado de <b>Ingeniería en Sistemas de Información</b> en la <a href="https://www.frc.utn.edu.ar">UTN FRC</a> (solo me resta la tesis) y de la <b>Licenciatura en Inteligencia Artificial</b>.<br/>
-  📍 Vivo en <a href="https://www.google.com/maps?q=cordoba+argentina">Córdoba</a>, Argentina.<br/>
-  🔐 Integrante de <b>GISSIC</b> (Grupo de Investigación en Seguridad de Sistemas de Información y Ciberseguridad), donde participo en un proyecto de investigación.<br/>
-  🛠️ Desarrollo APIs y microservicios con <b>Java/Spring Boot</b> y <b>Python/FastAPI</b>, automatizo despliegues con <b>CI/CD</b> y escaneo de seguridad, y trabajo con <b>OAuth 2.0, JWT y FIDO2</b>.<br/>
-  🤖 Integro modelos de <b>visión por computadora</b> y <b>LLMs</b> en sistemas funcionales.<br/>
-  🌱 Me apasionan la ciberseguridad y la IA.
-</p>
-<p>
-  🔗 ¿Querés hablar de algún proyecto? Mandame un <a href="mailto:tomicarrio73@gmail.com?subject=[GitHub]%20Contacto">mail</a> o escribime por <a href="https://www.linkedin.com/in/tomi-carrio73/">LinkedIn</a>.
-</p><br/>
+<p align="center"><i>Me gusta construir sistemas completos: desde la API y la base de datos hasta el despliegue en contenedores, la observabilidad y los controles de seguridad, sumando modelos de IA cuando aportan valor real.</i></p>
 
 <p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
 
-<h3>🛠️ Conocimientos técnicos</h3>
+## 🧰 Tech Stack
 
-| Área | Tecnologías |
-|---|---|
-| **Lenguajes** | Java, Python, JavaScript, SQL, Bash |
-| **Backend** | Spring Boot (Data, Security, Cloud Gateway), JPA/Hibernate, FastAPI, Flask, Node.js, Express · APIs REST, OpenAPI, WebSocket, microservicios |
-| **Frontend** | React |
-| **Bases de datos** | MySQL, MariaDB, SQL Server, SQLite, MongoDB · modelado y normalización |
-| **Integración y mensajería** | RabbitMQ, webhooks, n8n |
-| **IA y datos** | PyTorch, Hugging Face Transformers, Ultralytics (YOLO), SAM, OWLv2, Grounding DINO, LLMs (Qwen, Groq, Ollama), MCP, aprendizaje por refuerzo (Q-Learning), NumPy, pandas, Matplotlib, Jupyter |
-| **DevOps y cloud** | Linux, Docker, Docker Compose, Kubernetes, GitLab CI/CD, GitHub Actions, Nginx, Azure (VM) |
-| **Observabilidad y pruebas** | Prometheus, Grafana, Jaeger, JMeter, Postman/Newman, pytest, JUnit |
-| **Seguridad** | OAuth 2.0 / OIDC (PKCE, client credentials), JWT, Auth0, WebAuthn/FIDO2, detect-secrets, Checkov, Trivy, Nmap, Wireshark, Burp Suite |
-| **Redes** | Configuración básica de redes LAN/WAN y diagnóstico de conectividad |
-| **Metodologías y herramientas** | Agile, Scrum, Kanban, UML, BPMN, C4, ADR, Git, VS Code, IntelliJ |
+#### 💻 Lenguajes
+
+<p>
+  <img src="assets/badges/java-ed8b00-8e7df9.svg" alt="Java"/>
+  <img src="assets/badges/python-3776ab-1c3df6.svg" alt="Python"/>
+  <img src="assets/badges/javascript-f7df1e-a49e82.svg" alt="JavaScript"/>
+  <img src="assets/badges/sql-336791-cf05b4.svg" alt="SQL"/>
+  <img src="assets/badges/bash-4eaa25-58ca87.svg" alt="Bash"/>
+</p>
+
+#### 🧩 Frameworks y librerías
+
+<p>
+  <img src="assets/badges/spring-boot-6db33f-4f81aa.svg" alt="Spring Boot"/>
+  <img src="assets/badges/fastapi-009688-3ffd42.svg" alt="FastAPI"/>
+  <img src="assets/badges/flask-000000-a71735.svg" alt="Flask"/>
+  <img src="assets/badges/node-js-339933-c24e5c.svg" alt="Node.js"/>
+  <img src="assets/badges/express-000000-554bdb.svg" alt="Express"/>
+  <img src="assets/badges/react-20232a-2450b3.svg" alt="React"/>
+  <img src="assets/badges/hibernate-59666c-bb6029.svg" alt="Hibernate"/>
+</p>
+
+#### 🗄️ Bases de datos
+
+<p>
+  <img src="assets/badges/mysql-4479a1-e6f725.svg" alt="MySQL"/>
+  <img src="assets/badges/mariadb-003545-d6356f.svg" alt="MariaDB"/>
+  <img src="assets/badges/sql-server-cc2927-c4a1a1.svg" alt="SQL Server"/>
+  <img src="assets/badges/sqlite-003b57-0ba65e.svg" alt="SQLite"/>
+  <img src="assets/badges/mongodb-47a248-9ae799.svg" alt="MongoDB"/>
+</p>
+
+#### 🔗 Integración y APIs
+
+<p>
+  <img src="assets/badges/rabbitmq-ff6600-44dece.svg" alt="RabbitMQ"/>
+  <img src="assets/badges/websocket-010101-8ce312.svg" alt="WebSocket"/>
+  <img src="assets/badges/openapi-6ba539-ff9966.svg" alt="OpenAPI"/>
+  <img src="assets/badges/postman-ff6c37-dcbf52.svg" alt="Postman"/>
+</p>
+
+#### 🧪 Testing y DevOps
+
+<p>
+  <img src="assets/badges/docker-2496ed-e65657.svg" alt="Docker"/>
+  <img src="assets/badges/kubernetes-326ce5-9c1ee8.svg" alt="Kubernetes"/>
+  <img src="assets/badges/gitlab-ci-fc6d26-babb16.svg" alt="GitLab CI"/>
+  <img src="assets/badges/github-actions-2088ff-26ca42.svg" alt="GitHub Actions"/>
+  <img src="assets/badges/nginx-009639-02a89c.svg" alt="Nginx"/>
+  <img src="assets/badges/jmeter-d22128-bb6a5b.svg" alt="JMeter"/>
+  <img src="assets/badges/pytest-0a9edc-d9d10a.svg" alt="pytest"/>
+  <img src="assets/badges/junit-25a162-125213.svg" alt="JUnit"/>
+</p>
+
+#### 📈 Observabilidad
+
+<p>
+  <img src="assets/badges/prometheus-e6522c-6b4c1c.svg" alt="Prometheus"/>
+  <img src="assets/badges/grafana-f46800-4cbfd0.svg" alt="Grafana"/>
+  <img src="assets/badges/jaeger-66cfe3-0586ad.svg" alt="Jaeger"/>
+</p>
+
+#### ☁️ Cloud y herramientas
+
+<p>
+  <img src="assets/badges/azure-0078d4-69e757.svg" alt="Azure"/>
+  <img src="assets/badges/vercel-000000-1e75c3.svg" alt="Vercel"/>
+  <img src="assets/badges/linux-fcc624-48d510.svg" alt="Linux"/>
+  <img src="assets/badges/git-f05032-463888.svg" alt="Git"/>
+  <img src="assets/badges/github-181717-d72abc.svg" alt="GitHub"/>
+  <img src="assets/badges/vs-code-007acc-af6c8a.svg" alt="VS Code"/>
+  <img src="assets/badges/intellij-000000-6bc3cc.svg" alt="IntelliJ"/>
+</p>
+
+<p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
+
+## 🤖 Inteligencia Artificial
+
+#### 🧠 Modelos y plataformas
+
+<p>
+  <img src="assets/badges/pytorch-ee4c2c-f12459.svg" alt="PyTorch"/>
+  <img src="assets/badges/hugging-face-ffd21e-c7dec9.svg" alt="Hugging Face"/>
+  <img src="assets/badges/ultralytics-111f68-8f7633.svg" alt="Ultralytics"/>
+  <img src="assets/badges/opencv-5c3ee8-ecc9fa.svg" alt="OpenCV"/>
+  <img src="assets/badges/ollama-000000-984a9b.svg" alt="Ollama"/>
+  <img src="assets/badges/groq-f55036-a93708.svg" alt="Groq"/>
+  <img src="assets/badges/qwen-615ced-f6274a.svg" alt="Qwen"/>
+</p>
+
+#### ⚙️ Automatización
+
+<p>
+  <img src="assets/badges/n8n-ea4b71-dfc7dd.svg" alt="n8n"/>
+  <img src="assets/badges/telegram-bot-api-26a5e4-4a5b16.svg" alt="Telegram Bot API"/>
+</p>
+
+#### 📊 Datos y experimentación
+
+<p>
+  <img src="assets/badges/numpy-013243-34a670.svg" alt="NumPy"/>
+  <img src="assets/badges/pandas-150458-d77897.svg" alt="pandas"/>
+  <img src="assets/badges/matplotlib-11557c-23a326.svg" alt="Matplotlib"/>
+  <img src="assets/badges/jupyter-f37626-aa097d.svg" alt="Jupyter"/>
+</p>
+
+> 🔧 Integro modelos de visión por computadora y LLMs locales en sistemas funcionales: detección y segmentación de objetos, extracción de datos estructurados con IA y automatizaciones que toman decisiones a partir de datos en tiempo real.
+
+<p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
+
+## 🔐 Ciberseguridad
+
+#### 🔑 Autenticación y seguridad de aplicaciones
+
+<p>
+  <img src="assets/badges/oauth-2-0-eb5424-c6bb7a.svg" alt="OAuth 2.0"/>
+  <img src="assets/badges/jwt-000000-0678d8.svg" alt="JWT"/>
+  <img src="assets/badges/auth0-eb5424-83b4c9.svg" alt="Auth0"/>
+  <img src="assets/badges/keycloak-4d4d4d-1695f8.svg" alt="Keycloak"/>
+  <img src="assets/badges/webauthn-fido2-3b5998-828481.svg" alt="WebAuthn / FIDO2"/>
+</p>
+
+#### 🛡️ DevSecOps
+
+<p>
+  <img src="assets/badges/detect-secrets-4b4b4b-6f5818.svg" alt="detect-secrets"/>
+  <img src="assets/badges/checkov-6c2bd9-75e143.svg" alt="Checkov"/>
+  <img src="assets/badges/trivy-1904da-5dac1e.svg" alt="Trivy"/>
+</p>
+
+#### 🕵️ Pentesting y análisis de red
+
+<p>
+  <img src="assets/badges/kali-linux-557c94-4d7c81.svg" alt="Kali Linux"/>
+  <img src="assets/badges/nmap-0e83cd-846588.svg" alt="Nmap"/>
+  <img src="assets/badges/wireshark-1679a7-e6fd5e.svg" alt="Wireshark"/>
+  <img src="assets/badges/burp-suite-ff6633-087ac8.svg" alt="Burp Suite"/>
+</p>
+
+> 🔧 Desarrollo laboratorios de pentesting con vulnerabilidades intencionales, implemento segundo factor con passkeys FIDO2 e integro escaneo de secretos, infraestructura e imágenes en los pipelines de CI/CD.
 
 <p align="center"><img src="assets/anim/separador-red-neuronal.svg" alt="" width="100%"/></p>
 
